@@ -75,3 +75,10 @@ To convert predictions into concrete business actions, we translated our ML mode
 1. **Never Trust Accuracy Alone:** For highly imbalanced datasets like fraud detection, metrics like **Precision, Recall, and F1-Score** are far more critical than raw Accuracy.
 2. **Dynamic Retraining:** Fraud tactics evolve constantly. Models must be continuously retrained with fresh transaction streams to prevent conceptual drift.
 3. **Data-Driven Strategy:** Combining descriptive visualizations with prescriptive rule engines reduces human intervention costs, focusing expensive manual review efforts only on ambiguous, medium-risk transactions.
+
+---
+
+### 👥 Project Team
+* **Rimas Almuntashiri** (My Role: Descriptive Analytics & Power BI Dashboard)
+* **Layan Almunammis** (Predictive & Prescriptive Modeling in RapidMiner)[cite: 1]
+* **Layan Alshaikhi** (Predictive & Prescriptive Modeling in RapidMiner)[cite: 1]
