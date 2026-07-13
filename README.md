@@ -80,5 +80,5 @@ To convert predictions into concrete business actions, we translated our ML mode
 
 ### 👥 Project Team
 * **Rimas Almuntashiri** (My Role: Descriptive Analytics & Power BI Dashboard)
-* **Layan Almunammis** (Predictive & Prescriptive Modeling in RapidMiner)[cite: 1]
-* **Layan Alshaikhi** (Predictive & Prescriptive Modeling in RapidMiner)[cite: 1]
+* **Layan Almunammis** (Predictive & Prescriptive Modeling in RapidMiner)
+* **Layan Alshaikhi** (Predictive & Prescriptive Modeling in RapidMiner)
